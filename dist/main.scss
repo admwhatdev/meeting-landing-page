@@ -187,7 +187,7 @@ footer {
   position: relative;
   color: $white;
   text-align: center;
-  background-image: url('/dist/assets/image-footer1.jpg');
+  background-image: url('../assets/image-footer1.jpg');
   background-size: cover;
   padding: 0 1.5rem;
   font-size: $p-size;
@@ -312,7 +312,7 @@ footer {
 
   // Footer Styles 
   footer {
-    background-image: url('/dist/assets/image-footer2.jpg');
+    background-image: url('../assets/image-footer2.jpg');
     background-position: center;
 
     h2 {
@@ -409,7 +409,7 @@ footer {
 
   // Footer Styles 
   footer {
-    background-image: url('/dist/assets/image-footer.jpg');
+    background-image: url('..assets/image-footer.jpg');
     padding-bottom: 6.5rem;
 
     .flex-container {

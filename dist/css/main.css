@@ -194,7 +194,7 @@ footer {
   position: relative;
   color: #fafafa;
   text-align: center;
-  background-image: url("/dist/assets/image-footer1.jpg");
+  background-image: url("../assets/image-footer1.jpg");
   background-size: cover;
   padding: 0 1.5rem;
   font-size: 1.125rem;
@@ -300,7 +300,7 @@ footer .overlay {
     margin: 0 auto 2rem auto;
   }
   footer {
-    background-image: url("/dist/assets/image-footer2.jpg");
+    background-image: url("../assets/image-footer2.jpg");
     background-position: center;
   }
   footer h2 {
@@ -375,7 +375,7 @@ footer .overlay {
     width: 31.75rem;
   }
   footer {
-    background-image: url(/dist/assets/image-footer.jpg);
+    background-image: url("..assets/image-footer.jpg");
     padding-bottom: 6.5rem;
   }
   footer .flex-container {
